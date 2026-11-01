@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Nikhil Ahir
 
-### Generative AI Engineer | Agentic AI | RAG | LLM Applications
+### AI Engineer | Agentic AI | RAG | LLM Applications
 
 I'm a Generative AI Engineer passionate about building intelligent applications using Large Language Models, Retrieval-Augmented Generation (RAG), and Agentic AI. I enjoy developing practical AI solutions and integrating LLM-powered systems into real-world workflows.
 
